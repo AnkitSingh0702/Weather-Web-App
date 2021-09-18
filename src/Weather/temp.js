@@ -1,4 +1,3 @@
-// https://api.openweathermap.org/data/2.5/weather?q=%20Ranchi%20&appid=cb3652e00f7d67d7ce6832bea6f57f64
 import React, { useState, useEffect } from "react";
 import './extradata.css';
 import { RiSearchLine } from "react-icons/ri";
